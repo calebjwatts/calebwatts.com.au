@@ -2,6 +2,11 @@
 title: "GitHub Actions: Automate your security"
 date: 2022-11-15T11:44:21+11:00
 draft: true
+tags:
+  - DevSecOps
+  - GitHub
+  - Blogging
+  - Security
 ---
 
 GitHub's automation feature GitHub actions is a powerful devops automation tool built into GitHub. It can be used to automate many tasks in the platform using events to begin some sequence of actions. This can be used to build and deploy your application on a pull into main, or, as we will explore today, automate some of the security actions in a repository.
