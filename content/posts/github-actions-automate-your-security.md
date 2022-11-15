@@ -5,7 +5,6 @@ draft: true
 tags:
   - DevSecOps
   - GitHub
-  - Blogging
   - Security
 ---
 
