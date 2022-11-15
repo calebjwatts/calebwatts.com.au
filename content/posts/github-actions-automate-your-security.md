@@ -1,16 +1,14 @@
 ---
-title: "GitHub Actions: Automate your security"
-date: 2022-11-15T11:44:21+11:00
-draft: true
+title: "GitHub Actions: Anatomy of a Workflow"
+date: 2022-11-15T07:31:56+11:00
 tags:
-  - DevSecOps
+  - DevOps
   - GitHub
-  - Security
 ---
 
-GitHub's automation feature GitHub actions is a powerful devops automation tool built into GitHub. It can be used to automate many tasks in the platform using events to begin some sequence of actions. This can be used to build and deploy your application on a pull into main, or, as we will explore today, automate some of the security actions in a repository.
+GitHub's automation feature GitHub Actions is a powerful devops automation tool built into GitHub. It can be used to automate many tasks in the platform using events to begin some sequence of actions. This can be used to build and deploy your application on a pull into main, deploy a docker image to your infrastructure.
 
-Though before we get to using GitHub Actions for security, it'd be a good idea to learn a bit more about the feature.
+Though before we get to using GitHub Actions, it'd be a good idea to learn a bit more about it's anatomy.
 
 # Anatomy of GitHub Actions
 
@@ -33,11 +31,4 @@ Runners are servers that run a single job. GitHub provides a variety of differen
 ## Actions
 
 Actions are custom applications for the GitHub Actions feature. Much like a function they allow you to reuse a complex but repeatable action in your workflows. They are very powerful and can be used to do a number of different things. Actions can be custom built or can be selected from the GitHub Marketplace.
-
-Now that we have an understanding of GitHub Actions we can now take a look at how you can use them to automate security processes in your repositories.
-
-# Security Automation
-Many parts of AppSec work and DevSecOps are complex and require skilled individuals to manually review and act upon issues, but some parts don't. This is where GitHub Actions can be used to automate some of this work. Lets take a look at some of these.
-
-## Dependancy scanning and updating
 
