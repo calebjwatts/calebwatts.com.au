@@ -1,7 +1,6 @@
 ---
 title: Making your own VS Code theme
 date: 2022-11-15T11:44:21+11:00
-draft: true
 ---
 Visual Studio Code has become prolific in the tech community as the text editor of choice for many. One of the many reasons for that is the sheer amount of customisability it offers. That’s why I like it anyway.
 

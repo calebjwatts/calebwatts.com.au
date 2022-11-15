@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
 date: 2022-11-15T00:32:21+11:00
-draft: true
 ---
 
 ```javascript
