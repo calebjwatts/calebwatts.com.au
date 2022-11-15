@@ -10,7 +10,7 @@ GitHub's automation feature GitHub Actions is a powerful devops automation tool 
 
 Though before we get to using GitHub Actions, it'd be a good idea to learn a bit more about it's anatomy.
 
-## Anatomy of GitHub Actions
+## Anatomy of a Workflow
 
 ### Workflow
 
