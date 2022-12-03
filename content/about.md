@@ -20,7 +20,7 @@ March 2022 - Current
 #### Arc Delegate @ Security Society of UNSW
 November 2022 - Current
 
-#### Defence Work Experience @ ASD
+#### Defence Work Experience @ Department of Defence
 November 2019
 
 ### Other
