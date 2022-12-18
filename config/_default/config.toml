@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://www.hackermonke.github.io/"
+baseURL = "https://www.thoughtnest.dev/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
