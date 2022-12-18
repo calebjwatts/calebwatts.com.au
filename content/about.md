@@ -23,6 +23,9 @@ November 2022 - Current
 #### Careers & SCONES Coordinating Executive @ Security Society of UNSW
 November 2022 - Current
 
+#### Events & SCONES Subcommittee @ Security Society of UNSW
+March 2022 - November 2022
+
 #### Defence Work Experience @ Department of Defence
 November 2019
 
@@ -33,8 +36,14 @@ January 2023 - Current
 #### Welfare Officer @ UNSW Student Representative Council
 December 2022 - Current
 
+#### Councillor B @ UNSW Student Representative Council
+July 2022 - December 2022
+
 #### Deputy Chairperson @ Lake Macquarie City Council Youth Advisory Council
 March 2022 - Current
+
+#### Member @ Lake Macquarie City Council Youth Advisory Council
+November 2021 - Current
 
 #### Secretary @ UNSW Labor Club
 October 2021 - December 2022
