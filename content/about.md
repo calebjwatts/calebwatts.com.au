@@ -3,6 +3,8 @@ title: "About"
 showReadingTime: false
 showDate: false
 showWordCount: false
+menu: "footer"
+showAuthor: false
 ---
 # 👨‍💻 G'day, I'm Caleb!
 I am a Computer Science student from Newcastle, Australia 🇦🇺
