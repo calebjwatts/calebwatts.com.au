@@ -20,10 +20,16 @@ March 2022 - Current
 #### Arc Delegate @ Security Society of UNSW
 November 2022 - Current
 
+#### Careers & SCONES Coordinating Executive @ Security Society of UNSW
+November 2022 - Current
+
 #### Defence Work Experience @ Department of Defence
 November 2019
 
-### Other
+### Advocacy and Politics
+#### National Executive @ National Union of Students
+January 2023 - Current
+
 #### Welfare Officer @ UNSW Student Representative Council
 December 2022 - Current
 
