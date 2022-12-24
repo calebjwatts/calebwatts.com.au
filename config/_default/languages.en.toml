@@ -6,8 +6,8 @@ weight = 1
 rtl = false
 
 title = "Thought Nest"
-logo = "assets/img/62E1A747-341A-4A22-A11B-ECDD196AAA14.png"
-description = "A nest of my thoughts about, life, the universe, and everything."
+logo = "assets/img/logo.png"
+description = "A nest of thoughts about, life, the universe, and everything."
 copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
