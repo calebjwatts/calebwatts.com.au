@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Thought Nest"
-logo = "img/logo.png"
-description = "A nest of thoughts about, life, the universe, and everything."
+title = "Caleb Watts"
+# logo = "img/logo.png"
+description = "A blog of thoughts about, life, the universe, and everything."
 copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -18,7 +18,7 @@ dateFormat = "2 January 2006"
   headline = "Another guy with a blog"
   bio = "CS & Arts Student | Junior Guy in Cyber"
   links = [
-    { email = "mailto:mail@thoughtnest.dev" },
+    { email = "mailto:contact@calebwatts.com.au" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
