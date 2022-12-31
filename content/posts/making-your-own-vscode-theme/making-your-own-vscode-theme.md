@@ -47,7 +47,7 @@ Once you have made those decisions you will be given the option to initialise a 
 Once this is done you will have a repository with a few different files.
 
 ## Making your theme
-### `themes/your-color-theme.json`
+### themes/your-color-theme.json
 This is the most important file in the project.
 
  
