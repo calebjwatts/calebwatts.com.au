@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://www.thoughtnest.dev/"
+baseURL = "https://www.calebwatts.com.au/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
