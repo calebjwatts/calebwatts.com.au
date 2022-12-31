@@ -48,7 +48,7 @@ December 2022 - Current
 March 2022 - Current
 
 #### Member @ [Lake Macquarie City Council Youth Advisory Council](https://www.lakemac.com.au/For-residents/Young-people/Youth-Advisory-Council)
-November 2021 - Current
+November 2021 - March 2022
 
 #### Secretary @ [UNSW Labor Club](https://www.unswlabor.org)
 October 2021 - December 2022
