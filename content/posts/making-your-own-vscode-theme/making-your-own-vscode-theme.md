@@ -29,17 +29,17 @@ $ yo code
 ```
 This will start the Visual Studio Code Extension generator. using your arrow keys you can make a selection, we want a new color theme:
 
-![Console](vscodetheme1.png)
+![Console](./vscodetheme1.png)
 
 
 Once you select this, choose start fresh:
 
-![Console](vscodetheme2.png)
+![Console](./vscodetheme2.png)
 
 
 Then we need to decide on a name, extension identifier (just use the default), a short description, display name, and the base theme (either the default light or dark theme).
 
-![Console](vscodetheme3.png)
+![Console](./vscodetheme3.png)
 
 
 Once you have made those decisions you will be given the option to initialise a git repository and open the project in VS Code.
@@ -51,7 +51,7 @@ Once this is done you will have a repository with a few different files.
 This is the most important file in the project.
 
  
-![themes/your-color-theme.json screenshot](vscodetheme4.png)
+![themes/your-color-theme.json screenshot](./vscodetheme4.png)
 
 
 This is where you will decide on the colours you will use in your theme. Broadly this can be broken up into two main categories editor colours and workbench colours.

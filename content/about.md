@@ -10,7 +10,7 @@ showAuthor: false
 I am a Computer Science student from Newcastle, Australia 🇦🇺
 
 - 🦜 I am currently working as a Junior Security Consultant at [Galah Cyber](https://www.galahcyber.com.au)
-- 📚 I am currently a third year Bachelor of Science (Computer Science) / Bachelor of Arts student at UNSW Sydney
+- 📚 I am currently a third year Bachelor of Science (Computer Science) / Bachelor of Arts student at [UNSW Sydney](https://www.unsw.edu.au)
 - 💻 In my free time I go to local tech and cyber meetups
 - 📢 I spend alot of time doing student and youth advocacy work, and am passionate about Australian Politics
 
