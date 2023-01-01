@@ -32,7 +32,7 @@ March 2022 - November 2022
 November 2019
 
 ### Advocacy and Politics
-#### National Executive @ [National Union of Students](https://www.nus.asn.au)
+#### General Executive @ [National Union of Students](https://www.nus.asn.au)
 January 2023 - Current
 
 #### Welfare Officer @ [UNSW Student Representative Council](https://www.arc.unsw.edu.au/src)
