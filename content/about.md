@@ -41,6 +41,9 @@ December 2022 - Current
 #### Councillor B @ [UNSW Student Representative Council](https://www.arc.unsw.edu.au/src)
 July 2022 - December 2022
 
+#### Electorate Officer @ [Office of Senator Tony Sheldon](https://www.aph.gov.au/Senator_Sheldon)
+January 2023
+
 #### Chairperson - Building Sustainable Communities Policy Committee @ [NSW Young Labor](https://www.nswlabor.org.au)
 December 2022 - Current
 
