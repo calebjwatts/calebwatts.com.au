@@ -7,7 +7,7 @@ menu: "footer"
 showAuthor: false
 ---
 # 👨‍💻 G'day, I'm Caleb!
-I am a Computer Science student from Newcastle, Australia 🇦🇺
+I am a massive nerd from Newcastle, Australia 🇦🇺
 
 - 🖋️ Electorate Officer at the [Office of the Hon Michelle Rowland MP](https://www.michellerowland.com.au/)
 - 🦜 Ex Junior Security Consultant at [Galah Cyber](https://www.galahcyber.com.au)
@@ -23,10 +23,10 @@ March 2022 - April 2023
 #### Arc Delegate @ [Security Society of UNSW](https://www.unswsecurity.com)
 November 2022 - Current
 
-#### Careers & SCONES Coordinating Executive @ [Security Society of UNSW](https://www.unswsecurity.com)
+##### Careers & SCONES Coordinating Executive @ [Security Society of UNSW](https://www.unswsecurity.com)
 November 2022 - Current
 
-#### Events & SCONES Subcommittee @ [Security Society of UNSW](https://www.unswsecurity.com)
+##### Events & SCONES Subcommittee @ [Security Society of UNSW](https://www.unswsecurity.com)
 March 2022 - November 2022
 
 #### Defence Work Experience @ [Department of Defence](https://www.defence.gov.au/jobs-careers/student-pathways/work-experience)
@@ -42,7 +42,7 @@ January 2023 - Current
 #### Welfare Officer @ [UNSW Student Representative Council](https://www.arc.unsw.edu.au/src)
 December 2022 - Current
 
-#### Councillor B @ [UNSW Student Representative Council](https://www.arc.unsw.edu.au/src)
+##### Councillor B @ [UNSW Student Representative Council](https://www.arc.unsw.edu.au/src)
 July 2022 - December 2022
 
 #### Electorate Officer @ [Office of Senator Tony Sheldon](https://www.aph.gov.au/Senator_Sheldon)
@@ -52,7 +52,7 @@ January 2023
 December 2022 - Current
 
 #### Deputy Chairperson @ [Lake Macquarie City Council Youth Advisory Council](https://www.lakemac.com.au/For-residents/Young-people/Youth-Advisory-Council)
-March 2022 - Current
+March 2022 - May 2023
 
 #### Member @ [Lake Macquarie City Council Youth Advisory Council](https://www.lakemac.com.au/For-residents/Young-people/Youth-Advisory-Council)
 November 2021 - March 2022
