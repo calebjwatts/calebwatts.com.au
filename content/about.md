@@ -9,7 +9,7 @@ showAuthor: false
 # 👨‍💻 G'day, I'm Caleb!
 I am a Computer Science student from Newcastle, Australia 🇦🇺
 
-- 🖋️ Electorate Officer at the [Office of the Hon Michelle Rowland MP](https://www.aph.gov.au/M_Rowland_MP)
+- 🖋️ Electorate Officer at the [Office of the Hon Michelle Rowland MP](https://www.michellerowland.com.au/)
 - 🦜 Ex Junior Security Consultant at [Galah Cyber](https://www.galahcyber.com.au)
 - 📚 I am currently a third year Bachelor of Science (Computer Science) / Bachelor of Arts student at [UNSW Sydney](https://www.unsw.edu.au)
 - 💻 In my free time I go to local tech and cyber meetups
@@ -33,7 +33,7 @@ March 2022 - November 2022
 November 2019
 
 ### Advocacy and Politics
-#### Electorate Officer @ [Office of the Hon Michelle Rowland MP](https://www.aph.gov.au/M_Rowland_MP)
+#### Electorate Officer @ [Office of the Hon Michelle Rowland MP](https://www.michellerowland.com.au/)
 May 2023 - Current
 
 #### General Executive @ [National Union of Students](https://www.nus.asn.au)
