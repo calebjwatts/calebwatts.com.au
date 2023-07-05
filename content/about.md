@@ -9,7 +9,8 @@ showAuthor: false
 # 👨‍💻 G'day, I'm Caleb!
 I am a Computer Science student from Newcastle, Australia 🇦🇺
 
-- 🦜 I am currently working as a Junior Security Consultant at [Galah Cyber](https://www.galahcyber.com.au)
+- 🖋️ Electorate Officer at the [Office of the Hon Michelle Rowland MP](https://www.aph.gov.au/M_Rowland_MP)
+- 🦜 Ex Junior Security Consultant at [Galah Cyber](https://www.galahcyber.com.au)
 - 📚 I am currently a third year Bachelor of Science (Computer Science) / Bachelor of Arts student at [UNSW Sydney](https://www.unsw.edu.au)
 - 💻 In my free time I go to local tech and cyber meetups
 - 📢 I spend alot of time doing student and youth advocacy work, and am passionate about Australian Politics
@@ -17,7 +18,7 @@ I am a Computer Science student from Newcastle, Australia 🇦🇺
 ## 📋 Experience
 ### Cyber
 #### Junior Security Consultant @ [Galah Cyber](https://www.galahcyber.com.au)
-March 2022 - Current
+March 2022 - April 2023
 
 #### Arc Delegate @ [Security Society of UNSW](https://www.unswsecurity.com)
 November 2022 - Current
@@ -32,6 +33,9 @@ March 2022 - November 2022
 November 2019
 
 ### Advocacy and Politics
+#### Electorate Officer @ [Office of the Hon Michelle Rowland MP](https://www.aph.gov.au/M_Rowland_MP)
+May 2023 - Current
+
 #### General Executive @ [National Union of Students](https://www.nus.asn.au)
 January 2023 - Current
 
