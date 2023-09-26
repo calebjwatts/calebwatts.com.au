@@ -9,9 +9,9 @@ showAuthor: false
 # 👨‍💻 G'day, I'm Caleb!
 I am a massive nerd from Newcastle, Australia 🇦🇺
 
-- 🖋️ Electorate Officer at the [Office of the Hon Michelle Rowland MP](https://www.michellerowland.com.au/)
+- 🖋️ Electorate Officer at the [Office of the Hon Michelle Rowland MP, Minister for Communications](https://www.michellerowland.com.au/)
 - 🦜 Ex Junior Security Consultant at [Galah Cyber](https://www.galahcyber.com.au)
-- 📚 I am currently a third year Bachelor of Science (Computer Science) / Bachelor of Arts student at [UNSW Sydney](https://www.unsw.edu.au)
+- 📚 I am currently a fourth year Bachelor of Science (Computer Science) / Bachelor of Arts student at [UNSW Sydney](https://www.unsw.edu.au)
 - 💻 In my free time I go to local tech and cyber meetups
 - 📢 I spend alot of time doing student and youth advocacy work, and am passionate about Australian Politics
 
@@ -23,9 +23,6 @@ March 2022 - April 2023
 #### Arc Delegate @ [Security Society of UNSW](https://www.unswsecurity.com)
 November 2022 - Current
 
-##### Careers & SCONES Coordinating Executive @ [Security Society of UNSW](https://www.unswsecurity.com)
-November 2022 - Current
-
 ##### Events & SCONES Subcommittee @ [Security Society of UNSW](https://www.unswsecurity.com)
 March 2022 - November 2022
 
@@ -33,7 +30,7 @@ March 2022 - November 2022
 November 2019
 
 ### Advocacy and Politics
-#### Electorate Officer @ [Office of the Hon Michelle Rowland MP](https://www.michellerowland.com.au/)
+#### Electorate Officer @ [Office of the Hon Michelle Rowland MP, Minister for Communications](https://www.michellerowland.com.au/)
 May 2023 - Current
 
 #### General Executive @ [National Union of Students](https://www.nus.asn.au)
